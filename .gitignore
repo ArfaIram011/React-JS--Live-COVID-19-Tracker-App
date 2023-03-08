@@ -1,18 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 #components
-Header.js
-src/components/ContactCard.js
-src/components/ContactList.js
-src/components/AddContact.js
-src/components/Weather.js
-src/components/WeatherCard.js
-src/components/CitySearch.js
-src/components/Form.js
-src/components/State.js
-#public
-favicon.ico
-logo192.png
-logo512.png
+
+
 # dependencies
 
 /node_modules
@@ -37,12 +26,9 @@ yarn-debug.log*
 yarn-error.log*
 
 /images
-/css
+HELLO-WORLD/src/components/css
 App.test.js
-Statebtn.js
-Temp.js
 index.css
 index.js
-logo.svg
 setupTests.js
 reportWebVitals.js
