@@ -1,5 +1,18 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
+#components
+Header.js
+ContactCard.js
+ContactList.js
+AddContact.js
+Weather.js
+WeatherCard.js
+CitySearch.js
+Form.js
+State.js
+#public
+favicon.ico
+logo192.png
+logo512.png
 # dependencies
 /node_modules
 /.pnp
