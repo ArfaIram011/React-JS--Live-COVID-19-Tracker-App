@@ -1,3 +1,8 @@
+# Preview of REACT LIVE COVID-19 TRACKER APP
+![Screenshot (402)](https://user-images.githubusercontent.com/106691248/223700051-246aa50c-1029-49e7-bc68-7d0a5ea8ff92.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
