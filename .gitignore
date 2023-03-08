@@ -1,14 +1,14 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 #components
-Header.js
-ContactCard.js
-ContactList.js
-AddContact.js
-Weather.js
-WeatherCard.js
-CitySearch.js
-Form.js
-State.js
+src/components/Header.js
+src/components/ContactCard.js
+src/components/ContactList.js
+src/components/AddContact.js
+src/components/Weather.js
+src/components/WeatherCard.js
+src/components/CitySearch.js
+src/components/Form.js
+src/components/State.js
 #public
 favicon.ico
 logo192.png
